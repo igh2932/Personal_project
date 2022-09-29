@@ -1,2 +1,2 @@
-# Personal-project
+# Personal_project
 Personal project
