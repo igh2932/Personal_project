@@ -15,10 +15,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Personal_project"
         tools:targetApi="31">
+
         <!-- 메인 -->
         <activity
             android:name=".MainActivity"
             android:exported="false" />
+
         <!-- MVP 예제 -->
         <activity
             android:name=".mvp.View.MainActivity"
@@ -34,6 +36,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
